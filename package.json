@@ -89,13 +89,13 @@
     },
     "build": {
         "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "productName": "FLauncher",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "FliyaKirya",
+                "repo": "FLauncher"
             }
         ],
         "directories": {
